@@ -1,0 +1,159 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="QuanLyNhanSuModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="ChucVu">
+    <Key>
+      <PropertyRef Name="MaCV" />
+    </Key>
+    <Property Name="MaCV" Type="varchar" MaxLength="10" Nullable="false" />
+    <Property Name="TenCV" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="Luong">
+    <Key>
+      <PropertyRef Name="BacLuong" />
+    </Key>
+    <Property Name="BacLuong" Type="int" Nullable="false" />
+    <Property Name="LuongCoban" Type="int" />
+    <Property Name="HeSoLuong" Type="int" />
+    <Property Name="HeSoPhuCap" Type="int" />
+  </EntityType>
+  <EntityType Name="NhanVien">
+    <Key>
+      <PropertyRef Name="MaNV" />
+    </Key>
+    <Property Name="MaNV" Type="varchar" MaxLength="10" Nullable="false" />
+    <Property Name="HoTen" Type="nvarchar" MaxLength="50" />
+    <Property Name="NgaySinh" Type="date" />
+    <Property Name="QueQuan" Type="nvarchar" MaxLength="50" />
+    <Property Name="GioiTinh" Type="nvarchar" MaxLength="5" />
+    <Property Name="DanToc" Type="nvarchar" MaxLength="20" />
+    <Property Name="SDTNhanVien" Type="varchar" MaxLength="15" />
+    <Property Name="MaPB" Type="varchar" MaxLength="10" />
+    <Property Name="MaTDHV" Type="varchar" MaxLength="10" />
+    <Property Name="BacLuong" Type="int" />
+  </EntityType>
+  <EntityType Name="PhongBan">
+    <Key>
+      <PropertyRef Name="MaPB" />
+    </Key>
+    <Property Name="MaPB" Type="varchar" MaxLength="10" Nullable="false" />
+    <Property Name="TenPB" Type="nvarchar" MaxLength="30" />
+    <Property Name="DiaChi" Type="nvarchar" MaxLength="50" />
+    <Property Name="SoDienThoaiPB" Type="varchar" MaxLength="15" />
+  </EntityType>
+  <EntityType Name="sysdiagrams">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="nvarchar" MaxLength="128" Nullable="false" />
+    <Property Name="principal_id" Type="int" Nullable="false" />
+    <Property Name="diagram_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="version" Type="int" />
+    <Property Name="definition" Type="varbinary(max)" />
+  </EntityType>
+  <EntityType Name="ThoiGianCongTac">
+    <Key>
+      <PropertyRef Name="MaNV" />
+      <PropertyRef Name="MaCV" />
+    </Key>
+    <Property Name="MaNV" Type="varchar" MaxLength="10" Nullable="false" />
+    <Property Name="MaCV" Type="varchar" MaxLength="10" Nullable="false" />
+    <Property Name="NgayNhanChuc" Type="date" />
+  </EntityType>
+  <EntityType Name="TrinhDoHocVan">
+    <Key>
+      <PropertyRef Name="MaTDHV" />
+    </Key>
+    <Property Name="MaTDHV" Type="varchar" MaxLength="10" Nullable="false" />
+    <Property Name="TenTrinhDo" Type="nvarchar" MaxLength="50" />
+    <Property Name="ChuyenNghanh" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <Association Name="FK_NhanVien_Luong">
+    <End Role="Luong" Type="Self.Luong" Multiplicity="0..1" />
+    <End Role="NhanVien" Type="Self.NhanVien" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Luong">
+        <PropertyRef Name="BacLuong" />
+      </Principal>
+      <Dependent Role="NhanVien">
+        <PropertyRef Name="BacLuong" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_NhanVien_PhongBan">
+    <End Role="PhongBan" Type="Self.PhongBan" Multiplicity="0..1" />
+    <End Role="NhanVien" Type="Self.NhanVien" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="PhongBan">
+        <PropertyRef Name="MaPB" />
+      </Principal>
+      <Dependent Role="NhanVien">
+        <PropertyRef Name="MaPB" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_NhanVien_TrinhDoHocVan">
+    <End Role="TrinhDoHocVan" Type="Self.TrinhDoHocVan" Multiplicity="0..1" />
+    <End Role="NhanVien" Type="Self.NhanVien" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="TrinhDoHocVan">
+        <PropertyRef Name="MaTDHV" />
+      </Principal>
+      <Dependent Role="NhanVien">
+        <PropertyRef Name="MaTDHV" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_ThoiGianCongTac_ChucVu">
+    <End Role="NhanVien" Type="Self.NhanVien" Multiplicity="1" />
+    <End Role="ThoiGianCongTac" Type="Self.ThoiGianCongTac" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="NhanVien">
+        <PropertyRef Name="MaNV" />
+      </Principal>
+      <Dependent Role="ThoiGianCongTac">
+        <PropertyRef Name="MaNV" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_ThoiGianCongTac_ChucVu1">
+    <End Role="ChucVu" Type="Self.ChucVu" Multiplicity="1" />
+    <End Role="ThoiGianCongTac" Type="Self.ThoiGianCongTac" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="ChucVu">
+        <PropertyRef Name="MaCV" />
+      </Principal>
+      <Dependent Role="ThoiGianCongTac">
+        <PropertyRef Name="MaCV" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="QuanLyNhanSuModelStoreContainer">
+    <EntitySet Name="ChucVu" EntityType="Self.ChucVu" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Luong" EntityType="Self.Luong" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="NhanVien" EntityType="Self.NhanVien" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="PhongBan" EntityType="Self.PhongBan" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagrams" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="ThoiGianCongTac" EntityType="Self.ThoiGianCongTac" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="TrinhDoHocVan" EntityType="Self.TrinhDoHocVan" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_NhanVien_Luong" Association="Self.FK_NhanVien_Luong">
+      <End Role="Luong" EntitySet="Luong" />
+      <End Role="NhanVien" EntitySet="NhanVien" />
+    </AssociationSet>
+    <AssociationSet Name="FK_NhanVien_PhongBan" Association="Self.FK_NhanVien_PhongBan">
+      <End Role="PhongBan" EntitySet="PhongBan" />
+      <End Role="NhanVien" EntitySet="NhanVien" />
+    </AssociationSet>
+    <AssociationSet Name="FK_NhanVien_TrinhDoHocVan" Association="Self.FK_NhanVien_TrinhDoHocVan">
+      <End Role="TrinhDoHocVan" EntitySet="TrinhDoHocVan" />
+      <End Role="NhanVien" EntitySet="NhanVien" />
+    </AssociationSet>
+    <AssociationSet Name="FK_ThoiGianCongTac_ChucVu" Association="Self.FK_ThoiGianCongTac_ChucVu">
+      <End Role="NhanVien" EntitySet="NhanVien" />
+      <End Role="ThoiGianCongTac" EntitySet="ThoiGianCongTac" />
+    </AssociationSet>
+    <AssociationSet Name="FK_ThoiGianCongTac_ChucVu1" Association="Self.FK_ThoiGianCongTac_ChucVu1">
+      <End Role="ChucVu" EntitySet="ChucVu" />
+      <End Role="ThoiGianCongTac" EntitySet="ThoiGianCongTac" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

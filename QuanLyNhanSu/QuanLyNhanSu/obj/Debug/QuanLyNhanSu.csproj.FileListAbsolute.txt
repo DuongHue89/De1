@@ -1,0 +1,126 @@
+c:\users\namtv1996\documents\visual studio 2015\Projects\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.exe.config
+c:\users\namtv1996\documents\visual studio 2015\Projects\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.exe
+c:\users\namtv1996\documents\visual studio 2015\Projects\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.pdb
+c:\users\namtv1996\documents\visual studio 2015\Projects\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\EntityFramework.dll
+c:\users\namtv1996\documents\visual studio 2015\Projects\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\namtv1996\documents\visual studio 2015\Projects\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\EntityFramework.xml
+c:\users\namtv1996\documents\visual studio 2015\Projects\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\namtv1996\documents\visual studio 2015\Projects\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csprojResolveAssemblyReference.cache
+c:\users\namtv1996\documents\visual studio 2015\Projects\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.Form1.resources
+c:\users\namtv1996\documents\visual studio 2015\Projects\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.Properties.Resources.resources
+c:\users\namtv1996\documents\visual studio 2015\Projects\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.GenerateResource.Cache
+c:\users\namtv1996\documents\visual studio 2015\Projects\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.exe
+c:\users\namtv1996\documents\visual studio 2015\Projects\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.pdb
+C:\Users\Do Quang Hung\Desktop\Github\Thực tập nhóm\ThucTapNhom\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.exe.config
+C:\Users\Do Quang Hung\Desktop\Github\Thực tập nhóm\ThucTapNhom\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.exe
+C:\Users\Do Quang Hung\Desktop\Github\Thực tập nhóm\ThucTapNhom\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.pdb
+C:\Users\Do Quang Hung\Desktop\Github\Thực tập nhóm\ThucTapNhom\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\EntityFramework.dll
+C:\Users\Do Quang Hung\Desktop\Github\Thực tập nhóm\ThucTapNhom\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Do Quang Hung\Desktop\Github\Thực tập nhóm\ThucTapNhom\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\EntityFramework.xml
+C:\Users\Do Quang Hung\Desktop\Github\Thực tập nhóm\ThucTapNhom\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Do Quang Hung\Desktop\Github\Thực tập nhóm\ThucTapNhom\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csprojResolveAssemblyReference.cache
+C:\Users\Do Quang Hung\Desktop\Github\Thực tập nhóm\ThucTapNhom\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.Form1.resources
+C:\Users\Do Quang Hung\Desktop\Github\Thực tập nhóm\ThucTapNhom\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.Properties.Resources.resources
+C:\Users\Do Quang Hung\Desktop\Github\Thực tập nhóm\ThucTapNhom\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.UC.Personnel.resources
+C:\Users\Do Quang Hung\Desktop\Github\Thực tập nhóm\ThucTapNhom\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.GenerateResource.Cache
+C:\Users\Do Quang Hung\Desktop\Github\Thực tập nhóm\ThucTapNhom\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.exe
+C:\Users\Do Quang Hung\Desktop\Github\Thực tập nhóm\ThucTapNhom\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.pdb
+C:\Users\Do Quang Hung\Desktop\Github\ThucTapNhom\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.exe.config
+C:\Users\Do Quang Hung\Desktop\Github\ThucTapNhom\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.exe
+C:\Users\Do Quang Hung\Desktop\Github\ThucTapNhom\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.pdb
+C:\Users\Do Quang Hung\Desktop\Github\ThucTapNhom\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\EntityFramework.dll
+C:\Users\Do Quang Hung\Desktop\Github\ThucTapNhom\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Do Quang Hung\Desktop\Github\ThucTapNhom\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\EntityFramework.xml
+C:\Users\Do Quang Hung\Desktop\Github\ThucTapNhom\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Do Quang Hung\Desktop\Github\ThucTapNhom\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csprojResolveAssemblyReference.cache
+C:\Users\Do Quang Hung\Desktop\Github\ThucTapNhom\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.Form1.resources
+C:\Users\Do Quang Hung\Desktop\Github\ThucTapNhom\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.Form2.resources
+C:\Users\Do Quang Hung\Desktop\Github\ThucTapNhom\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.Properties.Resources.resources
+C:\Users\Do Quang Hung\Desktop\Github\ThucTapNhom\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.UC.Personnel.resources
+C:\Users\Do Quang Hung\Desktop\Github\ThucTapNhom\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.GenerateResource.Cache
+C:\Users\Do Quang Hung\Desktop\Github\ThucTapNhom\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.exe
+C:\Users\Do Quang Hung\Desktop\Github\ThucTapNhom\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.pdb
+C:\Users\Do Quang Hung\Desktop\Github\ThucTapNhom\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.Form3.resources
+F:\Github\ThucTapNhom\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.exe.config
+F:\Github\ThucTapNhom\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.exe
+F:\Github\ThucTapNhom\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.pdb
+F:\Github\ThucTapNhom\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\EntityFramework.dll
+F:\Github\ThucTapNhom\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\EntityFramework.SqlServer.dll
+F:\Github\ThucTapNhom\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\EntityFramework.xml
+F:\Github\ThucTapNhom\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\EntityFramework.SqlServer.xml
+F:\Github\ThucTapNhom\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csprojResolveAssemblyReference.cache
+F:\Github\ThucTapNhom\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.Form1.resources
+F:\Github\ThucTapNhom\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.Form2.resources
+F:\Github\ThucTapNhom\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.Form3.resources
+F:\Github\ThucTapNhom\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.Properties.Resources.resources
+F:\Github\ThucTapNhom\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.UC.Personnel.resources
+F:\Github\ThucTapNhom\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.GenerateResource.Cache
+F:\Github\ThucTapNhom\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.exe
+F:\Github\ThucTapNhom\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.pdb
+C:\Users\namtv1996\Desktop\ThucTapNhom-master\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.exe.config
+C:\Users\namtv1996\Desktop\ThucTapNhom-master\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.exe
+C:\Users\namtv1996\Desktop\ThucTapNhom-master\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.pdb
+C:\Users\namtv1996\Desktop\ThucTapNhom-master\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.exe
+C:\Users\namtv1996\Desktop\ThucTapNhom-master\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.pdb
+C:\Users\namtv1996\Desktop\ThucTapNhom-master\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\EntityFramework.dll
+C:\Users\namtv1996\Desktop\ThucTapNhom-master\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\namtv1996\Desktop\ThucTapNhom-master\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\EntityFramework.xml
+C:\Users\namtv1996\Desktop\ThucTapNhom-master\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\namtv1996\Desktop\ThucTapNhom-master\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csprojResolveAssemblyReference.cache
+C:\Users\namtv1996\Desktop\ThucTapNhom-master\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.Properties.Resources.resources
+C:\Users\namtv1996\Desktop\ThucTapNhom-master\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.UC.Personnel.resources
+C:\Users\namtv1996\Desktop\ThucTapNhom-master\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.GenerateResource.Cache
+C:\Users\namtv1996\Desktop\ThucTapNhom-master\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.User_HuongDan.resources
+C:\Users\namtv1996\Desktop\ThucTapNhom-master\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.Form_Main.resources
+C:\Users\namtv1996\Desktop\ThucTapNhom-master\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.Login.resources
+C:\Users\namtv1996\Desktop\Thuc Tap Nhom\Thuc Tap Nhom - Quan Ly Nhan Su\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.exe.config
+C:\Users\namtv1996\Desktop\Thuc Tap Nhom\Thuc Tap Nhom - Quan Ly Nhan Su\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.exe
+C:\Users\namtv1996\Desktop\Thuc Tap Nhom\Thuc Tap Nhom - Quan Ly Nhan Su\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.pdb
+C:\Users\namtv1996\Desktop\Thuc Tap Nhom\Thuc Tap Nhom - Quan Ly Nhan Su\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.exe
+C:\Users\namtv1996\Desktop\Thuc Tap Nhom\Thuc Tap Nhom - Quan Ly Nhan Su\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.pdb
+C:\Users\namtv1996\Desktop\Thuc Tap Nhom\Thuc Tap Nhom - Quan Ly Nhan Su\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\EntityFramework.dll
+C:\Users\namtv1996\Desktop\Thuc Tap Nhom\Thuc Tap Nhom - Quan Ly Nhan Su\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\namtv1996\Desktop\Thuc Tap Nhom\Thuc Tap Nhom - Quan Ly Nhan Su\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\EntityFramework.xml
+C:\Users\namtv1996\Desktop\Thuc Tap Nhom\Thuc Tap Nhom - Quan Ly Nhan Su\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\namtv1996\Desktop\Thuc Tap Nhom\Thuc Tap Nhom - Quan Ly Nhan Su\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csprojResolveAssemblyReference.cache
+C:\Users\namtv1996\Desktop\Thuc Tap Nhom\Thuc Tap Nhom - Quan Ly Nhan Su\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.Form_Main.resources
+C:\Users\namtv1996\Desktop\Thuc Tap Nhom\Thuc Tap Nhom - Quan Ly Nhan Su\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.Login.resources
+C:\Users\namtv1996\Desktop\Thuc Tap Nhom\Thuc Tap Nhom - Quan Ly Nhan Su\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.Properties.Resources.resources
+C:\Users\namtv1996\Desktop\Thuc Tap Nhom\Thuc Tap Nhom - Quan Ly Nhan Su\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.UC.Personnel.resources
+C:\Users\namtv1996\Desktop\Thuc Tap Nhom\Thuc Tap Nhom - Quan Ly Nhan Su\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.User_HuongDan.resources
+C:\Users\namtv1996\Desktop\Thuc Tap Nhom\Thuc Tap Nhom - Quan Ly Nhan Su\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.GenerateResource.Cache
+E:\Github\Thuc-Tap-Nhom---Quan-Ly-Nhan-Su\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.exe.config
+E:\Github\Thuc-Tap-Nhom---Quan-Ly-Nhan-Su\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.exe
+E:\Github\Thuc-Tap-Nhom---Quan-Ly-Nhan-Su\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.pdb
+E:\Github\Thuc-Tap-Nhom---Quan-Ly-Nhan-Su\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\EntityFramework.dll
+E:\Github\Thuc-Tap-Nhom---Quan-Ly-Nhan-Su\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\EntityFramework.SqlServer.dll
+E:\Github\Thuc-Tap-Nhom---Quan-Ly-Nhan-Su\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\EntityFramework.xml
+E:\Github\Thuc-Tap-Nhom---Quan-Ly-Nhan-Su\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\EntityFramework.SqlServer.xml
+E:\Github\Thuc-Tap-Nhom---Quan-Ly-Nhan-Su\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csprojResolveAssemblyReference.cache
+E:\Github\Thuc-Tap-Nhom---Quan-Ly-Nhan-Su\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.Form_Main.resources
+E:\Github\Thuc-Tap-Nhom---Quan-Ly-Nhan-Su\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.Login.resources
+E:\Github\Thuc-Tap-Nhom---Quan-Ly-Nhan-Su\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.Properties.Resources.resources
+E:\Github\Thuc-Tap-Nhom---Quan-Ly-Nhan-Su\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.UC.Personnel.resources
+E:\Github\Thuc-Tap-Nhom---Quan-Ly-Nhan-Su\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.User_HuongDan.resources
+E:\Github\Thuc-Tap-Nhom---Quan-Ly-Nhan-Su\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.GenerateResource.Cache
+E:\Github\Thuc-Tap-Nhom---Quan-Ly-Nhan-Su\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.exe
+E:\Github\Thuc-Tap-Nhom---Quan-Ly-Nhan-Su\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.pdb
+D:\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.exe.config
+D:\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.exe
+D:\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.pdb
+D:\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.exe
+D:\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.pdb
+D:\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\EntityFramework.dll
+D:\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\EntityFramework.SqlServer.dll
+D:\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\EntityFramework.xml
+D:\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\EntityFramework.SqlServer.xml
+D:\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csprojResolveAssemblyReference.cache
+D:\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.Form_Main.resources
+D:\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.Login.resources
+D:\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.Properties.Resources.resources
+D:\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.UC.Personnel.resources
+D:\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.User_HuongDan.resources
+D:\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.GenerateResource.Cache
+C:\Users\sieuchip\Desktop\git\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.exe.config
+C:\Users\sieuchip\Desktop\git\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.exe
+C:\Users\sieuchip\Desktop\git\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.pdb
